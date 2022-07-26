@@ -32,7 +32,7 @@ namespace BrainfuckDotNet
                         array[p]--;
                         break;
                     case '.':
-                        Console.Write((char)array[p]);
+                        Console.Write(array[p]);
                         break;
                     case ',':
                         array[p] = Console.Read();
