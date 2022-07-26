@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BrainfuckDotNet", "BrainfuckDotNet\BrainfuckDotNet.csproj", "{F883BFBA-E859-42F1-A27E-8FCEAD8F7CCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrainfuckDotNetCompiler", "BrainfuckDotNetCompiler\BrainfuckDotNetCompiler.csproj", "{B071C24E-18FF-490A-A8CE-B02A63F56E98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F883BFBA-E859-42F1-A27E-8FCEAD8F7CCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F883BFBA-E859-42F1-A27E-8FCEAD8F7CCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F883BFBA-E859-42F1-A27E-8FCEAD8F7CCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F883BFBA-E859-42F1-A27E-8FCEAD8F7CCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B071C24E-18FF-490A-A8CE-B02A63F56E98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B071C24E-18FF-490A-A8CE-B02A63F56E98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B071C24E-18FF-490A-A8CE-B02A63F56E98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B071C24E-18FF-490A-A8CE-B02A63F56E98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A22CF048-5259-4D5D-B884-E69D300A4C1F}
+	EndGlobalSection
+EndGlobal
